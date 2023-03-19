@@ -1,0 +1,8 @@
+|id |lastname|firstname  |email            |city   |age|
+|---|--------|-----------|-----------------|-------|---|
+|0  |Patrycja|Wysocka    |mymail@gmail.com |London |26 |
+|1  |Anna    |Kowalska   |mymail1@gmail.com|Warsaw |30 |
+|2  |Justyna |Lis        |mymail2@gmail.com|Krakow |33 |
+|3  |Nadia   |Deszcz     |mymail3@gmail.com|Gdansk |21 |
+|4  |Weronika|Prusinowska|mymail4@gmail.com|Poznan |39 |
+|5  |Kacper  |Kusmirek   |mymail5@gmail.com|Wroclaw|28 |
