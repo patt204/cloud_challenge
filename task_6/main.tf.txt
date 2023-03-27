@@ -4,6 +4,8 @@ provider "google" {
   zone    = "us-central1-c"
 }
 
+# 1.Cloud Storage bucket that has public access configured
+
 resource "google_storage_bucket_access_control" "public_rule" {
   bucket = google_storage_bucket.bucket.name
   role   = "READER"
@@ -15,7 +17,7 @@ resource "google_storage_bucket" "bucket" {
   location = "US"
 }
 
-
+# 2.Compute Instance
 
 resource "google_compute_instance" "dare-id-vm" {
   name         = "dareit-vm-tf"
@@ -42,7 +44,7 @@ resource "google_compute_instance" "dare-id-vm" {
   }
 }
 
-
+# 3. Cloud SQL instance with Postgres engine. Create database called dareit and a user called dareit_user
 
 resource "random_id" "db_name_suffix" {
   byte_length = 4
