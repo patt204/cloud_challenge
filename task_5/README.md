@@ -1,8 +1,8 @@
 # DareIT - cloud_challenge
 # 5. Create Cloud SQL
 
-# Task 5 point 3 - what is average age of the students in the class?
-# Answer: 29.5
+Task 5 point 3 - what is average age of the students in the class?
+My answer: 29.5
 
 Knowledge Base: database, database management system (or DBMS), types of Databases, SQL - Structured Query Language, Domain Name System (DNS), Encryption.
 
@@ -34,8 +34,7 @@ So what now?
 1. Add one more column to the students table called age with type int
 2. Add 5 more rows to the table with some proper data. So information about 5 more students.
 3. Prepare a query that will answer the question what is average age of the students in the class?
-# task 5 point 3 what is average age of the students in the class?
-# Answer: 29.5
+My answer: 29.5
 4. Extract to txt data from the students table.
 5. Create a new folder in your cloud_challenge repo with name task_5 , commit the txt file there. Add a readme.md with the answer to question from point 3.
 6. And remember, Google is your friend! 🎉

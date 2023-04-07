@@ -1,7 +1,7 @@
 # DareIT - cloud_challenge
 # 6. Infrastructure as a Code
 
-# Task 6 point 4 - Copy the URL of the object (index.htm) from your bucket and add it to readme.md.
+Task 6 point 4 - Copy the URL of the object (index.htm) from your bucket and add it to readme.md.
 https://console.cloud.google.com/storage/browser/patrycjas-unique-name-of-bucket
 
 
@@ -30,9 +30,8 @@ As part of this task create a few resources using terraform.
 2. Manually change the password of the dareit_user
 3. Upload manually the index.html file (that you previously created in Task 1) into the newly created bucket.
 4. Create a new folder in your cloud_challenge repo with name task_6 , commit the main.tf file there. (don’t commit your terraform state file). Copy the URL of the object (index.htm) from your bucket and add it to readme.md.
-# Task 6 point 4 - Copy the URL of the object (index.htm) from your bucket and add it to readme.md.
+My answer:
 https://console.cloud.google.com/storage/browser/patrycjas-unique-name-of-bucket
-
 
 Step 4 OPTIONAL
 You can install terraform locally on your machine. And use Service Account for credentials.
