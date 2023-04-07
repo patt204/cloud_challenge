@@ -1,5 +1,4 @@
 # cloud_challenge
-DareIT
 
 DareIT - Cloud + Platform Engineer Challenge 2023 (02.2023 - 04.2023)
 
@@ -12,7 +11,8 @@ The scope of the course:
 - Cloud Function, 
 - SQL Database Service, 
 - Introduction to IAM, 
-- Concept CI/CD, IaC, 
+- Concept CI/CD, 
+- IaC, 
 - Configuration Management, 
 - Docker and Kubernetes.
 
