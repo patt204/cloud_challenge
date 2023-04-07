@@ -1,7 +1,7 @@
 # DareIT - cloud_challenge
 # 5. Create Cloud SQL
 
-Task 5 point 3 - what is average age of the students in the class?
+Task 5 step 6 point 3 - what is average age of the students in the class?
 My answer: 29.5
 
 Knowledge Base: database, database management system (or DBMS), types of Databases, SQL - Structured Query Language, Domain Name System (DNS), Encryption.
