@@ -1,10 +1,4 @@
-# DareIT - cloud_challenge
 # 8. Bringing it all together
-
-My solution is static website in Google Cloud Storage
-To run the application open the created website in browser using link:
-https://storage.googleapis.com/bucket_for_task8_pw/index.html
-
 
 Knowledge Base: container, Kubernetes.
 
@@ -33,3 +27,10 @@ Provide source code for creating the stack in a publicly available repository e.
 Provide basic setup documentation to run the application
 All resources should be deployed using Terraform
 Automate the deployment of your application using CI/CD
+
+
+SOLUTION:
+My solution is static website in Google Cloud Storage
+To run the application open the created website in browser using link:
+https://storage.googleapis.com/bucket_for_task8_pw/index.html
+
