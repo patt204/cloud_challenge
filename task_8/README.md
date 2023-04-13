@@ -31,6 +31,9 @@ Requirements:
 
 # SOLUTION:
 My solution is static website in Google Cloud Storage
+
 To run the application open the created website in browser using link:
 https://storage.googleapis.com/bucket_for_task8_pw/index.html
 
+Terraform repository:
+https://github.com/patt204/dareit-terraform2
