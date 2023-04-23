@@ -34,5 +34,10 @@ My solution is static website in GCS (Google Cloud Storage) deployed using terra
 https://github.com/patt204/dareit-terraform2
 
 To run the application open the created static website in browser using link:
+My solution is static website in Google Cloud Storage
+
+To run the application open the created website in browser using link:
 https://storage.googleapis.com/bucket_for_task8_pw/index.html
 
+Terraform repository:
+https://github.com/patt204/dareit-terraform2
